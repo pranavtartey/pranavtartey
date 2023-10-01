@@ -1,6 +1,6 @@
 # Welcome to Pranav Tartey's GitHub Profile!
 
-![Header Image](header-image-link.png) <!-- Optional: Add a header image to personalize your profile -->
+![Header Image](./github-header-image.png) <!-- Optional: Add a header image to personalize your profile -->
 
 Hello, world! 👋 I'm Pranav Tartey, a Web Developer based in India. I'm passionate about Open Source Projects, and I enjoy solving problems through code.
 
