@@ -1,61 +1,39 @@
-# Welcome to Pranav Tartey's GitHub Profile!
+[![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]
+<h1 align="center">Hi 👋, I'm Pranav Tartey</h1>
+<h3 align="center">Empowering innovation with expertise in Node.js, React.js, MongoDB, Linux, and Git.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-![Header Image](./github-header-image.png) <!-- Optional: Add a header image to personalize your profile -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtartey&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtartey" /> </p>
 
-Hello, world! 👋 I'm Pranav Tartey, a Web Developer based in India. I'm passionate about Open Source Projects, and I enjoy solving problems through code.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavtartey" alt="pranavtartey" /></a> </p>
 
-[![pranavtartey's GitHub | Stats](https://stats.quine.sh/pranavtartey/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pranavtartey)
+<p align="left"> <a href="https://twitter.com/pranav_tartey" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_tartey?logo=twitter&style=for-the-badge" alt="pranav_tartey" /></a> </p>
 
-## About Me
+- 🔭 I’m currently working on **Airbnb for Women.**
 
-- 🔭 I’m currently working on Web Open Source projects.
-- 🌱 I’m currently learning ReactJs.
-- 💬 Ask me about Web Development and Version Control.
-- 📫 How to reach me: pranavtartey@gmail.com
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning **MERN Stack.**
 
-## My Projects
+- 👨‍💻 All of my projects are available at [https://github.com/pranavtartey?tab=repositories](https://github.com/pranavtartey?tab=repositories)
 
-Here are some of the projects I'm proud of:
+- 💬 Ask me about **Git and Linux(Ubuntu).**
 
-1. [React-Food-App](https://github.com/pranavtartey/ReactFoodApp) - This app is a good kick-start for a complete React newbie or to revise your core React concepts.
-2. [BlogProject](https://github.com/pranavtartey/BlogProject) - As a NojeJs developer, I recently built a basic BlogPost CRUD Api web application using MongoDB and express.js, which allows users to create, read, update, and delete blog posts via a RESTful API. The API endpoints were tested and documented using Postman, ensuring that the application is scalable and reliable. With this project, I gained hand-on experience with Node.js, MongoDB, and Express.js, as well as proficiency in API design and testing using Postman.
-This app will also help beginners to revise the core concepts of building a new web application using Node.js, MongoDB, and Express.js.
-I am excited to continue working on similar projects and contribute to the growing field of web development.
-3. [YelpCamp](https://github.com/pranavtartey/YelpCamp) - This is a Web Application that helps connect people from different region and allow them to share beautiful terrain which helps others to know the best spot to camp near them.
+- 📫 How to reach me **pranavtartey@gmail.com**
 
-This also features a Map which further adds a precise location pin 📍 on the map so that a new user can effortlessly and efficiently find a perfect spot for themselves.
+- 📄 Know about my experiences [https://drive.google.com/file/d/118Iumm2nM77eXsPH4VR73aI8KpD8axIl/view?usp=drivesdk](https://drive.google.com/file/d/118Iumm2nM77eXsPH4VR73aI8KpD8axIl/view?usp=drivesdk)
 
-The authorities given to the user after registering on this app are basically :
-i) He/She can post a new camping site 🏕(anywhere around the globe 🌏 ).
-ii) He/She can edit or even delete permanently the post that they’ve made.
-iii) He/She can comment on his/her own post as well as on the posts made by other users, and receive comments on his/her own post as well.
-iv) A user is authorised only to delete his/her own comment from any post on the app, not even the owner of the post is allowed to delete the comments made by others.
-v) A user can post multiple images for a single camp site.
-Tech, framework, languages and apis, used for the making of this app are:
-i) NodeJs (JavaScript runtime)
-ii) MongoDB/MongoAtlas (Database)
-iii) MapBox (Api)
-iv) npm packages like -> ExpressJS, mongoose, passport etc.
-v) JavaScript (primary language)
-vi) Ejs (for dynamic templates and view engine)
-vii) Mongo session store(for storing sessions)
-viii) Cloudinary (api for image posting).
-ix) BootStrap 3 (Front end).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pranav_tartey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranav_tartey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranav-tartey-a7a95b213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-tartey-a7a95b213" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pranavtartey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavtartey" height="30" width="40" /></a>
+</p>
 
-You can find more of my projects on [My Repos](https://github.com/pranavtartey).
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## My Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavtartey&show_icons=true&locale=en&layout=compact" alt="pranavtartey" /></p>
 
-I love working with various technologies and tools, including:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavtartey&show_icons=true&locale=en" alt="pranavtartey" /></p>
 
-- Programming Languages: JavaScript and C++
-- Web Development: NodeJs, MongoDB, ExpressJs, ReactJs
-- DevOps: Git and GitHub
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavtartey&" alt="pranavtartey" /></p>
 
-## Connect with Me
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/pranav-tartey-a7a95b213/)
-
-Feel free to reach out, say hi, or collaborate on interesting projects. I'm always open to new opportunities and connections.
-
-Thanks for visiting my GitHub profile! 😊
