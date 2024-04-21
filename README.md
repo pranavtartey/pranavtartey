@@ -4,6 +4,8 @@
 
 Hello, world! 👋 I'm Pranav Tartey, a Web Developer based in India. I'm passionate about Open Source Projects, and I enjoy solving problems through code.
 
+[![pranavtartey's GitHub | Stats](https://stats.quine.sh/pranavtartey/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=pranavtartey)
+
 ## About Me
 
 - 🔭 I’m currently working on Web Open Source projects.
