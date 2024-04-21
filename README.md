@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]
+![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm Pranav Tartey</h1>
 <h3 align="center">Empowering innovation with expertise in Node.js, React.js, MongoDB, Linux, and Git.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
