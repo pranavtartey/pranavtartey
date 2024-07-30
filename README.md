@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranav_tartey" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_tartey?logo=twitter&style=for-the-badge" alt="pranav_tartey" /></a> </p>
 
-- 🔭 I’m currently working on **Airbnb for Women.**
+- 🔭 I’m currently working on **The Adventure Buddy.**
 
 - 🌱 I’m currently learning **MERN Stack.**
 
