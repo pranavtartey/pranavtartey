@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranavtartey?tab=repositories](https://github.com/pranavtartey?tab=repositories)
 
-- 💬 Ask me about **Git and Linux(Ubuntu).**
+- 💬 Ask me about **Web Development/Designing**
 
 - 📫 How to reach me **pranavtartey@gmail.com**
 
