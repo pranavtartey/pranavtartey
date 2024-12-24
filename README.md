@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm Pranav Tartey</h1>
-<h3 align="center">Empowering innovation with expertise in Node.js, React.js, MongoDB, Linux, and Git.</h3>
+<h3 align="center">Empowering innovation with expertise in TypeScript, ReactJS, NextJS, NodeJS, Experss MongoDB, PostgreSQL, Prisma, Docker.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtartey&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtartey" /> </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranav_tartey" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_tartey?logo=twitter&style=for-the-badge" alt="pranav_tartey" /></a> </p>
 
-- 🔭 I’m currently working on **The Adventure Buddy.**
+- 🔭 I’m currently working on creating **CleanUI.**
 
 - 🌱 I’m currently learning **MERN Stack.**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **pranavtartey@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/118Iumm2nM77eXsPH4VR73aI8KpD8axIl/view?usp=drivesdk](https://drive.google.com/file/d/118Iumm2nM77eXsPH4VR73aI8KpD8axIl/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xWj-XsRDheBSk1ZqSqAN-ph7aRtvUxeo/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
