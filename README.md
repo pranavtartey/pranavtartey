@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **pranavtartey@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xWj-XsRDheBSk1ZqSqAN-ph7aRtvUxeo/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TwmujLvShPQU8ONRmV7zeDXpLNKOSa3B/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
