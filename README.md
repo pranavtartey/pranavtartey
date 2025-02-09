@@ -1,8 +1,8 @@
 ![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm Pranav Tartey</h1>
 <p align="center">TypeScript, NextJS/ReactJS, NodeJS, Prisma, Postgres ,MongoDB, Mongoose, Monorepo, AWS/Digital Ocean</p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<br>
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtartey&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtartey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavtartey" alt="pranavtartey" /></a> </p>
